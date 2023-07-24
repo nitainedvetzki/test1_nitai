@@ -132,5 +132,7 @@ require (
 	nhooyr.io/websocket v1.8.6 // indirect
 	pgregory.net/rapid v0.5.5 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
+	google.golang.org/protobuf v1.29.0 // indirect
+
 
 )
